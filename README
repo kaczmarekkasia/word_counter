@@ -1,0 +1,24 @@
+Stwórz aplikację która czyta tekst od użytkownika i "notuje" ile razy użytkownik wpisał w aplikacji pewne słowo.
+Użytkownik może bez końca wpisywać zdania, a po użyciu komendy "wynik" aplikacja powinna wypisać wszystkie słowa i liczbę ich wystąpień.
+Komenda "quit" zamyka aplikację. Przykład:
+
+cośtam sobie wpisuje
+i liczę że cośtam będzie kilka razy wychwycone
+więc teraz na znak inny niż cośtam
+wynik
+
+cośtam -> 3
+sobie -> 1
+wpisuje -> 1
+i -> 1
+liczę -> 1
+że -> 1
+będzie -> 1
+kilka -> 1
+razy -> 1
+wychwycone -> 1
+więc -> 1
+teraz -> 1
+na -> 1
+znak -> 1
+inny -> 1
